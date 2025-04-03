@@ -1,6 +1,6 @@
 module github.com/ajalewis/go-plex-client
 
-go 1.12
+go 1.23.6
 
 require (
 	github.com/dgraph-io/badger/v3 v3.2103.2
